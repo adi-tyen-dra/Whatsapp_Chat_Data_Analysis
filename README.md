@@ -1,0 +1,3 @@
+# Whatsapp_Chat_Data_Analysis
+This repository contains the project conducting fundamental analytics in WhatsApp group chat.
+We can use WhatsApp data for many data science tasks like sentiment analysis, keyword extraction, named entity recognition, text analysis and several other natural language processing tasks. It also depends on who we are analyzing your WhatsApp messages with because we can find a lot of information from your WhatsApp messages which can also help you to solve business problems. This project deals with preparing the data for that purpose and carrying out basic analysis like avg words per message per person, emoji count, frequently used words by a person etc.
